@@ -1,0 +1,12 @@
+third_party:
+  grounded_sam2: third_party/grounded-sam-2
+  brushnet: third_party/BrushNet
+  grounding_dino_config: grounding_dino/groundingdino/config/GroundingDINO_SwinT_OGC.py
+  sam2_config: configs/sam2.1/sam2.1_hiera_l.yaml
+
+checkpoints:
+  hinet: checkpoints/hinet_full_canvas_seed0.pt
+  grounding_dino: checkpoints/grounded_sam2/groundingdino_swint_ogc.pth
+  sam2: checkpoints/grounded_sam2/sam2.1_hiera_large.pt
+  sd15: checkpoints/brushnet/stable-diffusion-v1-5
+  brushnet: checkpoints/brushnet/segmentation_mask_brushnet_ckpt

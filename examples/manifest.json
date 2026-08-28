@@ -1,0 +1,8 @@
+{
+  "note": "COCO/LVIS-derived demo tuples (CC BY 4.0). Not a dataset release.",
+  "examples": [
+    {"name": "cat", "prompt": "a cat.", "split_source": "phase5a1 test p1b_013"},
+    {"name": "dog", "prompt": "a dog.", "split_source": "phase5a1 test p1b_028"},
+    {"name": "backpack", "prompt": "a backpack.", "split_source": "phase5a1 test p1b_064"}
+  ]
+}
