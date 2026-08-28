@@ -1,0 +1,8 @@
+# Minimal environment for scripts/demo_hide_recover.py
+# Python 3.10 recommended. CUDA GPU strongly recommended.
+torch>=2.5.0
+numpy>=1.24
+pillow>=10.0
+scikit-image>=0.22
+opencv-python>=4.8
+pyyaml>=6.0

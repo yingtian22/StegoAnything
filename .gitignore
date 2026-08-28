@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+outputs/
+third_party/grounded-sam-2/
+third_party/BrushNet/
+checkpoints/grounded_sam2/
+checkpoints/brushnet/
+*.egg-info/
+.DS_Store
+.idea/
+.vscode/
